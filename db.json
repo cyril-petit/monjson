@@ -2,27 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "title": "Snickers"
+      "title": "Snickers",
+      "img":"https://e7.pngegg.com/pngimages/401/545/png-clipart-sneakers-shoe-nike-casual-running-shoes-white-sport-thumbnail.png"
     },
 {
       "id": 2,
-      "title": "Adidas"
+      "title": "Adidas",
+  "img":"https://e7.pngegg.com/pngimages/249/485/png-clipart-running-shoes-running-shoes-thumbnail.png"
     },
 {
       "id": 3,
-      "title": "Nike"
+      "title": "Nike",
+      "img":"https://e7.pngegg.com/pngimages/143/454/png-clipart-sports-shoes-adidas-skate-shoe-running-flux-black-adidas-shoes-for-women-thumbnail.png"
     },
 {
       "id": 4,
-      "title": "Converse"
+      "title": "Converse",
+      "img":"https://e7.pngegg.com/pngimages/911/774/png-clipart-sneakers-skate-shoe-women-s-sports-shoes-white-sport-thumbnail.png"
     },
 {
       "id": 5,
-      "title": "Malibu"
+      "title": "Malibu",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWX1mQypNYSg5B6jyu8gYbFpYjTx-jZYQN5A&usqp=CAU"
     },
 {
       "id": 6,
-      "title": "Juziers"
+      "title": "Juziers",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYnR5P4RsoF7VUPfk3t05IXpEX4AQzDqrR0A&usqp=CAU"
     }
   ],
   "profile": {
